@@ -25,7 +25,7 @@
 }
 
 .light-text{
-    color: rgb(114, 114, 114);
+    color: rgb(115, 115, 115);
 }
 
 .item{
@@ -33,7 +33,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     padding: 40px;
-    margin: 1rem 0;
+    margin: 16px 0;
 }
 
 .holder{
@@ -63,8 +63,8 @@
     flex-direction: column;
     justify-content: start;
     align-items: start;
-    padding: 1rem;
-    margin: 1.5rem;
+    padding: 16px;
+    margin: 25px;
     border: 2px solid rgb(196, 196, 196);
     box-shadow: 0 0 3px rgb(196, 196, 196);
     border-radius: 3px;
